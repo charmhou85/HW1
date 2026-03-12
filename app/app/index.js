@@ -4,8 +4,8 @@ export default function Page() {
   return (
     <View style={styles.container}>
       <View style={styles.main}>
-        <Text style={styles.title}>111019026</Text>
-        <Text style={styles.subtitle}>This is the first page of your app.</Text>
+        <Text style={styles.title}>靳婕</Text>
+        <Text style={styles.subtitle}>111019026</Text>
       </View>
     </View>
   );
